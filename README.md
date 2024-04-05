@@ -2,7 +2,7 @@
 ## Hi! 👋 I'm Victor ♨️♨️
 
 
-- 🏛️ I'm currently studying information systems at FIAP.
+- 🏛️ I'm currently studying Information Systems at FIAP.
 
 - 🏬 I took a technical course in IT at FECAP.
 
