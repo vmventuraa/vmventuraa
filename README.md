@@ -4,7 +4,7 @@
 
 - 🏛️ I'm currently studying Information Systems at FIAP.
 
-- 🏬 I took a technical course in IT at FECAP.
+- 🏬 My main focus is Back-end development.
 
 - 🍃 I'm currently learning Spring, Flutter, Kotlin, SQL
 
